@@ -10,9 +10,9 @@ The core problem is therefore:
 
 How to improve profitability and financial efficiency by controlling costs, stabilizing performance across periods, and maximizing returns from revenue growth.
 
-2. Key Insights
+Key Insights
 a. Strong Revenue Growth but Heavy Cost Burden
-Total revenue is very high (~$3T), but COGS alone accounts for a significant portion (~$2T)
+Total revenue is very high (~$3T) but COGS alone accounts for a significant portion (~$2T)
 This suggests thin margins despite high sales volume
 b. Rising Quarterly Revenue Trend
 Revenue increases from Q1 ($0.8T) to Q4 ($1.0T)
